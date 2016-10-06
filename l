@@ -1,0 +1,35 @@
+[33mcommit c148224c93bdd1494bc7e221fea2a47343d85c6a[m
+Author: max <lopan123@ukr.net>
+Date:   Thu Oct 6 01:39:59 2016 +0300
+
+    ddwwe
+
+[33mcommit a8cce5e8d1d902a5f39562ea13d51a9814a56a7a[m
+Author: max <lopan123@ukr.net>
+Date:   Thu Oct 6 01:23:00 2016 +0300
+
+    hjkhfdjs
+
+[33mcommit cab0c6b180d867f4adb83d94991950812148dc9a[m
+Author: max <lopan123@ukr.net>
+Date:   Wed Oct 5 23:52:10 2016 +0300
+
+    was change color and remove doc
+
+[33mcommit f9193d93f6409e500e008f6af39b95a7b8aee985[m
+Author: max <lopan123@ukr.net>
+Date:   Wed Oct 5 23:11:03 2016 +0300
+
+    password was added
+
+[33mcommit d3f6d9a1d086e4233230a11428fd41705a6ee24e[m
+Author: max <lopan123@ukr.net>
+Date:   Wed Oct 5 23:03:37 2016 +0300
+
+    good h3 was added
+
+[33mcommit c4f68eb7fd4ae089da086697ecf09af20acb9647[m
+Author: max <lopan123@ukr.net>
+Date:   Wed Oct 5 22:52:08 2016 +0300
+
+    h1 was added
